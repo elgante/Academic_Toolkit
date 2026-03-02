@@ -7,7 +7,7 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 
 ## JS, React
 - [WEB2 assignment Pokedex Demo](https://pokedex-nine-gamma-91.vercel.app)
-- [ELGANTE Personal Site Live Demo](https://elgante-personal-site-v1.vercel.app)
+- [ELGANTE Personal Site Demo](https://elgante-personal-site-v1.vercel.app)
  Built independently to explore advanced JavaScript and React features.
 
 ## C#
