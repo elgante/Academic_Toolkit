@@ -2,3 +2,4 @@
 
 # JS, React, EmailJS
 - [elgante-personal-site-v1.vercel.app)
+- [https://elgante-personal-site-v1.vercel.app/)
