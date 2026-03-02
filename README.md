@@ -1,4 +1,6 @@
-# academic_toolkit
+# Academic_Toolkit
+
+# Java
 
 # JS, React, EmailJS
 <a href="https://elgante-personal-site-v1.vercel.app" target="_blank" rel="noopener noreferrer">
