@@ -7,6 +7,7 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 
 ## JS, React
 - [WEB2 assignment Pokedex Demo](https://pokedex-nine-gamma-91.vercel.app)
+- [WEB2 assignment Pokedex Code](https://github.com/elgante/pokedex_code)
 - [ELGANTE Personal Site Demo](https://elgante-personal-site-v1.vercel.app)
 - [ELGANTE Personal Site Repo](https://github.com/elgante/elgante_personal_site_v1_code.git) Built independently to explore JavaScript and React features.
 
