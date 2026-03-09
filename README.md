@@ -17,6 +17,7 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 - [Semester 3 Project-CenterSprog-Demo](https://youtu.be/oUpRkwiyLQY)
 
 ## Java
-- [Java exercises and Semester1 Project-Hotel Managament-using JavaFx](https://github.com/elgante/java) Group work
-- [Semester2 Project-Vynil Swap-using JavaFx](https://github.com/elgante/2ndSemesterProject) Group work
+- [Java exercises and Semester1 Project-Overlook Hotel-JavaFx](https://github.com/elgante/java) Group work
+- [Semester2 Project-Vynil Swap-JavaFx](https://github.com/elgante/2ndSemesterProject) Group work
+- [WEB1 Assignment](https://overlookhotel.vercel.app/). Group work
 
