@@ -22,7 +22,7 @@ Hey, traveler! I’m currently getting polished 🤩. Come back soon.
 
 
 ## Multimedia
-- [A Surreal Journey. Video. Multimedia Project](https://youtu.be/eeWM7zs2sHw)
+- [A Surreal Journey. Video. Multimedia Project](https://youtu.be/_jBNDwUpEh8)
 
 ## JS, React
 - [ELGANTE Personal Site Demo](https://elgante-personal-site-v1.vercel.app)
